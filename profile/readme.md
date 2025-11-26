@@ -11,17 +11,12 @@ We welcome contributions. If you would like to make a major change or feature we
 recommend discussing it with the maintainer first, either through an issue or
 on [our support Discord](https://discord.gg/fmbot).
 
-If you make an impactful pull request you will also get the contributor status in 
-the publicly hosted bot. This is applied at the maintainers discretion.
-
-Note: Since there is only one main maintainer at the moment most git and release
-workflows are based around that. If more developers are willing to help 
-with this project, there will probably a more organized release guideline.
+See also [CONTRIBUTING.md](https://github.com/fmbot-discord/fmbot/blob/dev/CONTRIBUTING.md).
 
 ## External links
 
-Documentation: https://fmbot.xyz/
+Documentation: https://fm.bot
 
 Discord: https://discord.gg/fmbot
 
-[Click here to add the bot to your server.](http://invite.fmbot.xyz/)
+[Click here to add the bot to your server.](https://discord.com/oauth2/authorize?client_id=356268235697553409&scope=bot%20applications.commands&permissions=275415092288)
